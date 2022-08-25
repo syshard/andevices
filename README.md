@@ -6,6 +6,6 @@ _Script de controle remote de celulares_
 
 [Leia em outro idioma](#translations)
 
-Este aplicativo fornece exibição e controle de dispositivos Android conectados via USB ou TCP/IP . Não requer nenhum acesso root . Funciona em GNU/Linux , Windows e macOS .
+Este aplicativo fornece exibição e controle de dispositivos Android conectados via USB ou TCP/IP . Não requer nenhum acesso root.
 
 ![screenshot](images/screenshot-debian-600.jpg)
