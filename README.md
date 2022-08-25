@@ -1,4 +1,4 @@
-# Andevices
+# Andevices (scrcpy)
 
 <img src="./images/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
